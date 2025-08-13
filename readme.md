@@ -8,30 +8,30 @@
 
 **Ross Ivan T. Venturillo**
 <div style="display: flex; gap: 5px ">
-<a href = https://web.facebook.com/kira.venturillo>
-    <img src ="./img/Facebook.png" 
-    width = "120" style="border-radius: 50%;"
+<a href=https://web.facebook.com/kira.venturillo>
+    <img src="./img/Facebook.png" 
+    width="120" style="border-radius: 50%;"
    />  
 </a>
 
-<a href = https://github.com/Ritvent>
-    <img src ="./img/Github.png" 
-    width = "120" style="border-radius: 50%;"/>
+<a href=https://github.com/Ritvent>
+    <img src="./img/Github.png" 
+    width="120" style="border-radius: 50%;"/>
 </a>
 </div> <br>
 
 **Dianara Kristy D. Garciano** <br> 
 
 <div style="display: flex; gap: 5px ">
-<a href = https://web.facebook.com/watashiwadayan.desu>
-    <img src ="./img/Facebook.png" 
-    width = "120" style="border-radius: 50%;"
+<a href= https://web.facebook.com/watashiwadayan.desu>
+    <img src="./img/Facebook.png" 
+    width="120" style="border-radius: 50%;"
    />  
 </a>
 
-<a href = https://github.com/mosshead19>
-    <img src ="./img/Github.png" 
-    width = "120" style="border-radius: 50%;"/>
+<a href=https://github.com/mosshead19>
+    <img src="./img/Github.png" 
+    width="120" style="border-radius: 50%;"/>
 </a>
 </div> <br>
 
