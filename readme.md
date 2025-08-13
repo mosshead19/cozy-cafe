@@ -2,39 +2,56 @@
 
 # About the Authors
 
+<div style="display: flex ">
 
-<img src= "./img/ProfileRitvent.png" width="150px" height ="150px" style="border-radius: 50%;"> &nbsp; &nbsp; &nbsp;  <img src="./img/MossheadProfile.png" width="150px"  height ="150px" style="border-radius: 50%;">
+<div style="">
+<img src= "./img/ProfileRitvent.png" width="150px" height ="150px" style="border-radius: 50%;">
+<div style=""><b>Ross Ivan T. Venturillo</b><br><i>202380388@psu.palawan.edu.ph </i><br>
 
-
-**Names: Ross Ivan T. Venturillo & Dianara Kristy D. Garciano** <br>**Email: 2023120388@psu.palawan.edu.ph & 2023120388@psu.palawan.edu.ph**
-
-**Ross Ivan T. Venturillo**
 <div style="display: flex; gap: 5px ">
 <a href=https://web.facebook.com/kira.venturillo>
     <img src="./img/Facebook.png" 
-    width="120" style="border-radius: 50%;"
+    width="40" style="border-radius: 50%;"
    />  
 </a>
 
 <a href=https://github.com/Ritvent>
     <img src="./img/Github.png" 
-    width="120" style="border-radius: 50%;"/>
+    width="40" style="border-radius: 50%;"/>
 </a>
-</div> <br>
+</div></div>
+</div>
 
-**Dianara Kristy D. Garciano** <br> 
+<div style="width:60px"></div>
 
+<div> <img src="./img/MossheadProfile.png" width="150px"  height ="150px" style="border-radius: 50%;">
+<div style=""><b>Dianara Kristy Garciano</b><br><i>20238249@psu.palawan.edu.ph</i><br>
 <div style="display: flex; gap: 5px ">
 <a href= https://web.facebook.com/watashiwadayan.desu>
     <img src="./img/Facebook.png" 
-    width="120" style="border-radius: 50%;"
+    width="40" style="border-radius: 50%;"
    />  
 </a>
 
 <a href=https://github.com/mosshead19>
     <img src="./img/Github.png" 
-    width="120" style="border-radius: 50%;"/>
-</a>
+    width="40" style="border-radius: 50%;"/>
+</a> </div>
+</div>
+
+
+</div>
+
+
+
+
+
+
+<div>
+ <br>
+
+
+
 </div> <br>
 
 
