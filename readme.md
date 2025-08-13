@@ -1,7 +1,7 @@
 # About the Authors
 
 
-<img src="https://avatars.githubusercontent.com/u/178126655?v=4" width="150" style="border-radius: 50%;"> &nbsp; &nbsp; &nbsp;  <img src="https://avatars.githubusercontent.com/u/142156759?v=4" width="150" style="border-radius: 50%;">
+<img src="https://avatars.githubusercontent.com/u/178126655?v=4" width="150" height ="150" style="border-radius: 50%;"> &nbsp; &nbsp; &nbsp;  <img src="https://avatars.githubusercontent.com/u/142156759?v=4" width="150"  height ="150" style="border-radius: 50%;">
 
 
 **Names: Ross Ivan T. Venturillo & Dianara Kristy D. Garciano** <br>**Email: 202380388@psu.palawan.edu.ph & 202380388@psu.palawan.edu.ph**
