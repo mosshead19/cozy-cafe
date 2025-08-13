@@ -9,7 +9,7 @@
 **Ross Ivan T. Venturillo**
 <div style="display: flex; gap: 5px ">
 <a href = https://web.facebook.com/kira.venturillo>
-    <img style = "padding-right: 10"src ="./img/Facebook.png" 
+    <img src ="./img/Facebook.png" 
     width = "80" style="border-radius: 50%;"
    />  
 </a>
@@ -24,7 +24,7 @@
 
 <div style="display: flex; gap: 5px ">
 <a href = https://web.facebook.com/watashiwadayan.desu>
-    <img style ="padding-right:  10" src ="./img/Facebook.png" 
+    <img src ="./img/Facebook.png" 
     width = "80" style="border-radius: 50%;"
    />  
 </a>
