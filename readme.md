@@ -25,7 +25,7 @@
 <div style="width:60px"></div>
 
 <div> <img src="./img/MossheadProfile.png" width="150px"  height ="150px" style="border-radius: 50%;">
-<div style=""><b>Dianara Kristy D. Garciano</b><br><i>20238249@psu.palawan.edu.ph</i><br>
+<div style=""><b>Dianara Kristy D. Garciano</b><br><i>202380249@psu.palawan.edu.ph</i><br>
 <div style="display: flex; gap: 5px ">
 <a href= https://web.facebook.com/watashiwadayan.desu>
     <img src="./img/Facebook.png" 
