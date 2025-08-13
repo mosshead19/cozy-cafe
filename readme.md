@@ -1,7 +1,7 @@
 # About the Authors
 
 
-<img src= "./img/ProfileRitvent.png" width="150" height ="150" style="border-radius: 50%;"> &nbsp; &nbsp; &nbsp;  <img src="./img/MossheadProfile.png" width="150"  height ="150" style="border-radius: 50%;">
+<img src= "./img/ProfileRitvent.png" width="150px" height ="150px" style="border-radius: 50%;"> &nbsp; &nbsp; &nbsp;  <img src="./img/MossheadProfile.png" width="150px"  height ="150px" style="border-radius: 50%;">
 
 
 **Names: Ross Ivan T. Venturillo & Dianara Kristy D. Garciano** <br>**Email: 202380388@psu.palawan.edu.ph & 202380388@psu.palawan.edu.ph**
