@@ -9,13 +9,13 @@
 **Ross Ivan T. Venturillo**
 <div style="display: flex ">
 <a href = https://web.facebook.com/kira.venturillo>
-    <img src = "./img/facebook.png" 
+    <img src = "./img/Facebook.png" 
     width = "80" style="border-radius: 50%;"
    />  &nbsp; &nbsp; &nbsp;
 </a>
 
 <a href = https://github.com/Ritvent>
-    <img src = "./img/github.png" 
+    <img src = "./img/Github.png" 
     width = "80" style="border-radius: 50%;"/>
 </a>
 </div> <br>
@@ -24,13 +24,13 @@
 
 <div style="display: flex ">
 <a href = https://web.facebook.com/watashiwadayan.desu>
-    <img src = "./img/facebook.png" 
+    <img src = "./img/Facebook.png" 
     width = "80" style="border-radius: 50%;"
    />  &nbsp; &nbsp; &nbsp;
 </a>
 
 <a href = https://github.com/mosshead19>
-    <img src = "./img/github.png" 
+    <img src = "./img/Github.png" 
     width = "80" style="border-radius: 50%;"/>
 </a>
 </div> <br>
