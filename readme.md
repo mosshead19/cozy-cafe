@@ -7,7 +7,7 @@
 **Names: Ross Ivan T. Venturillo & Dianara Kristy D. Garciano** <br>**Email: 202380388@psu.palawan.edu.ph & 202380388@psu.palawan.edu.ph**
 
 **Ross Ivan T. Venturillo**
-<div style="display: flex ">
+<div style="display: flex; gap: 5px ">
 <a href = https://web.facebook.com/kira.venturillo>
     <img style = "padding-right: 10"src ="./img/Facebook.png" 
     width = "80" style="border-radius: 50%;"
@@ -22,7 +22,7 @@
 
 **Dianara Kristy D. Garciano** <br> 
 
-<div style="display: flex ">
+<div style="display: flex; gap: 5px ">
 <a href = https://web.facebook.com/watashiwadayan.desu>
     <img style ="padding-right:  10" src ="./img/Facebook.png" 
     width = "80" style="border-radius: 50%;"
