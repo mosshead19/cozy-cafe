@@ -9,9 +9,9 @@
 **Ross Ivan T. Venturillo**
 <div style="display: flex ">
 <a href = https://web.facebook.com/kira.venturillo>
-    <img src = "./img/Facebook.png" 
+    <img style = "padding-right: 10"src = "./img/Facebook.png" 
     width = "80" style="border-radius: 50%;"
-   />  &nbsp; &nbsp; &nbsp;
+   />  
 </a>
 
 <a href = https://github.com/Ritvent>
@@ -24,9 +24,9 @@
 
 <div style="display: flex ">
 <a href = https://web.facebook.com/watashiwadayan.desu>
-    <img src = "./img/Facebook.png" 
+    <img style ="padding-right:  10" src = "./img/Facebook.png" 
     width = "80" style="border-radius: 50%;"
-   />  &nbsp; &nbsp; &nbsp;
+   />  
 </a>
 
 <a href = https://github.com/mosshead19>
