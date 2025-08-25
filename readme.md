@@ -32,41 +32,20 @@
 ![alt text](./img/image-4.png)
 # About the Authors
 
+<img src="https://avatars.githubusercontent.com/u/142156759?v=4" width="150" style="border-radius: 50%;"><br>
+**Name: Dianara Kristy D. Garciano**<br>
+**Email: 202380249@psu.palawan.edu.ph**
 
-<img src="https://avatars.githubusercontent.com/u/178126655?v=4" width="150" style="border-radius: 50%;"> &nbsp; &nbsp; &nbsp;  <img src="https://avatars.githubusercontent.com/u/142156759?v=4" width="150" style="border-radius: 50%;">
+[<img style="margin-right: 20px; width: 80px; border-radius: 50%;" src="./img/Facebook.png">](https://web.facebook.com/watashiwadayan.desu)
+[<img style="margin-right: 20px; width: 80px; border-radius: 50%;" src="./img/Github.png">](https://github.com/mosshead19)
 
 
-**Names: Ross Ivan T. Venturillo & Dianara Kristy D. Garciano** <br>**Email: 202380388@psu.palawan.edu.ph & 202380249@psu.palawan.edu.ph**
+<img src="https://avatars.githubusercontent.com/u/178126655?v=4" width="150" style="border-radius: 50%;"><br>
+**Name: Ross Ivan T. Venturillo**<br>
+**Email: 202380249@psu.palawan.edu.ph**<br>
 
-**Ross Ivan T. Venturillo**
-<div style="display: flex ">
-<a href = https://web.facebook.com/kira.venturillo>
-    <img style ="padding-right: 20px;" src = "./img/Facebook.png" 
-    width = "80" style="border-radius: 50%;"
-   />
-</a>
-
-<a href = https://github.com/Ritvent>
-    <img src = "./img/Github.png" 
-    width = "80" style="border-radius: 50%;"/>
-</a>
-</div> <br>
-
-**Dianara Kristy D. Garciano** <br> 
-
-<div style="display: flex ">
-<a href = https://web.facebook.com/watashiwadayan.desu>
-    <img style ="padding-right: 20px;"src = "./img/Facebook.png" 
-    width = "80" style="border-radius: 50%;"
-   />  
-</a>
-
-<a href = https://github.com/mosshead19>
-    <img src = "./img/Github.png" 
-    width = "80" style="border-radius: 50%;"/>
-</a>
-</div> <br>
-
+[<img style="margin-right: 20px; width: 80px; border-radius: 50%;" src="./img/Facebook.png">](https://web.facebook.com/kira.venturillo)
+[<img style="width: 80px; border-radius: 50%;" src="./img/Github.png">](https://github.com/Ritvent)
 
 
 
